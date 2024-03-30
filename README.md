@@ -1,2 +1,4 @@
 # News
-A project made with the https://newsapi.org api
+This is a program that uses the api from https://newsapi.org and takes the userinput to get the latest news and show it to the user.
+
+This project is inspired by https://github.com/tuomaskivioja/ and his youtube video https://www.youtube.com/watch?v=ZRlbf5P2iMA&t=2s.
